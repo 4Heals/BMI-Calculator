@@ -1,5 +1,4 @@
-# BMIcalculatorinAndroidStudio
-This BMI Calculator in android studio using java in Android studio
-Some of the output screens
+# BMI calculator
+This BMI Calculator for Android, It takes data from the user and determines the BMI of the user and returns the result.
 
 
